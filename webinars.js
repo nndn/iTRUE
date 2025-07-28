@@ -5,3 +5,6 @@ $('.webinar').hover(function(){
 function(){
     $(this).children('.calendar').children('.icon').attr('src','assets/calendar.png');
 });
+
+
+// Some random changes
